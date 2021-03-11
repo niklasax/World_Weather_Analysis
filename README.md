@@ -21,11 +21,11 @@ The code can be found in the Weather_Database.ipnyb file. Below is the Dataframe
 
 
 
-In the second deliverable, we imported the weather data csv (created in deliverable 1), wrote an input statement that prompted the user to enter their minimum and maximum temperature criteria for their vacation, created filtered and cleaned a dataframe based on user inputs, used gmaps to identify the nearest hotels that fit the parameters then 
+In the second deliverable, we imported the weather data csv (created in deliverable 1), wrote an input statement that prompted the user to enter their minimum and maximum temperature criteria for their vacation, created filtered and cleaned a dataframe based on user inputs, used gmaps to identify the nearest hotels that fit the parameters then plot those hotels on Google Maps.
 
-The code can be found in the Vacation_Search.ipnyb file. Below is the Dataframe product from the weather API call:
+The code can be found in the Vacation_Search.ipnyb file. Below is the Google Maps product showing all the potential hotels
 
-![](https://github.com/niklasax/World_Weather_Analysis/blob/main/Screen%20Shot%202021-03-11%20at%202.14.02%20PM.png)
+![](https://github.com/niklasax/World_Weather_Analysis/blob/main/Screen%20Shot%202021-03-11%20at%202.35.00%20PM.png)
 
 
 
