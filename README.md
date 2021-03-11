@@ -23,11 +23,15 @@ The code can be found in the Weather_Database.ipnyb file. Below is the Dataframe
 
 In the second deliverable, we imported the weather data csv (created in deliverable 1), wrote an input statement that prompted the user to enter their minimum and maximum temperature criteria for their vacation, created filtered and cleaned a dataframe based on user inputs, used gmaps to identify the nearest hotels that fit the parameters then plot those hotels on Google Maps.
 
-The code can be found in the Vacation_Search.ipnyb file. Below is the Google Maps product showing all the potential hotels
+The code can be found in the Vacation_Search.ipnyb file. Below is the Google Maps product showing all the potential hotels:
 
 ![](https://github.com/niklasax/World_Weather_Analysis/blob/main/Screen%20Shot%202021-03-11%20at%202.35.00%20PM.png)
 
 
+### Deliverable 3 - Travel Itinerary Map Creation
 
+In the last portion of the assignment, we used the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, created a marker layer map with a pop-up marker for each city on the itinerary.
 
+The code can be found in the Vacation_Itinerary.ipnyb file. Below is the Google Maps product showing the four chosen hotels and the routes between:
 
+![](https://github.com/niklasax/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
