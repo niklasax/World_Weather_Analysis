@@ -15,7 +15,7 @@ In the first deliverable, we first generated a random set of 2000 coordinates, g
 
 The code can be found in the Weather_Database.ipnyb file. Below is the Dataframe product from the weather API call:
 
-![](https://github.com/niklasax/World_Weather_Analysis/blob/main/Screen%20Shot%202021-03-11%20at%2012.44.52%20PM.png)
+![](https://github.com/niklasax/World_Weather_Analysis/blob/main/resources/Screen%20Shot%202021-03-11%20at%2012.44.52%20PM.png)
 
 ### Deliverable 2 - Customer Travel Destinations Map Creation
 
@@ -25,7 +25,7 @@ In the second deliverable, we imported the weather data csv (created in delivera
 
 The code can be found in the Vacation_Search.ipnyb file. Below is the Google Maps product showing all the potential hotels:
 
-![](https://github.com/niklasax/World_Weather_Analysis/blob/main/Screen%20Shot%202021-03-11%20at%202.35.00%20PM.png)
+![](https://github.com/niklasax/World_Weather_Analysis/blob/main/resources/Screen%20Shot%202021-03-11%20at%202.35.00%20PM.png)
 
 
 ### Deliverable 3 - Travel Itinerary Map Creation
@@ -34,4 +34,4 @@ In the last portion of the assignment, we used the Google Directions API to crea
 
 The code can be found in the Vacation_Itinerary.ipnyb file. Below is the Google Maps product showing the four chosen hotels and the routes between:
 
-![](https://github.com/niklasax/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+![](https://github.com/niklasax/World_Weather_Analysis/blob/main/resources/WeatherPy_travel_map.png)
